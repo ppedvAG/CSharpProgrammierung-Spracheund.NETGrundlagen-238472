@@ -1,6 +1,4 @@
 ﻿#region Variablen
-using System.Net.Http.Headers;
-
 Console.WriteLine("Hello World"); //cw + Tab
 
 //Kommentar
