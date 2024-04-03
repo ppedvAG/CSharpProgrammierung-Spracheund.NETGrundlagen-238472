@@ -1,4 +1,4 @@
-﻿namespace M006;
+﻿namespace M006.Data;
 
 /// <summary>
 /// class
