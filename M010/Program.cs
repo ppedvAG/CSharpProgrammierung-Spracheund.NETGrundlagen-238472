@@ -32,6 +32,11 @@ internal class Program
 		foreach (ISprechen sp in x)
 			sp.Sprechen("Hallo");
 
+		if (m is ISprechen)
+		{
+
+		}
+
 		//Beispiel: IEnumerable
 		//Die Basis von allen Listentypen in C#
 		IEnumerable<int> e = new int[10];
