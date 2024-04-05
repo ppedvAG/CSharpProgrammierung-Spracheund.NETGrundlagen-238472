@@ -1,2 +1,5 @@
 Strg + .: Schnelloptionen unter dem Cursor anzeigen
 Strg + K, Strg + D: Code formatieren
+F12: Definition einsehen
+Strg + R, R: Member und alle Vorkommnisse umbenennen
+Alt + Drag: Multizeilencursor
